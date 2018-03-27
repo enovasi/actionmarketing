@@ -1,0 +1,4 @@
+[submodule "enovasi/Mercansa"]
+	path = enovasi/Mercansa
+	url = git@github.com:enovasi/Mercansa.git
+	branch = IMAGE_URL
