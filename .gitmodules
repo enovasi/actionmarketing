@@ -12,3 +12,8 @@
 	path = actionmarketing/mercansa
 	url = git@github.com:enovasi/Mercansa.git
 	branch = IMAGE_URL
+
+[submodule "product_image_url"]
+	path = product_image_url
+	url = git@github.com:enovasi/Mercansa.git
+	branch = master
