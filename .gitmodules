@@ -7,3 +7,8 @@
 	path = actionmarketing/plants
 	url = git@github.com:mart-e/odoodays-2017.git
 	branch = master
+
+[submodule "actionmarketing/mercansa"]
+	path = actionmarketing/mercansa
+	url = git@github.com:enovasi/Mercansa.git
+	branch = IMAGE_URL
