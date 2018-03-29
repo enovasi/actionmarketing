@@ -1,0 +1,19 @@
+[submodule "enovasi/Mercansa"]
+	path = enovasi/Mercansa
+	url = git@github.com:enovasi/Mercansa.git
+	branch = IMAGE_URL
+
+[submodule "actionmarketing/plants"]
+	path = actionmarketing/plants
+	url = git@github.com:mart-e/odoodays-2017.git
+	branch = master
+
+[submodule "actionmarketing/mercansa"]
+	path = actionmarketing/mercansa
+	url = git@github.com:enovasi/Mercansa.git
+	branch = IMAGE_URL
+
+[submodule "product_image_url"]
+	path = product_image_url
+	url = git@github.com:enovasi/Mercansa.git
+	branch = master
